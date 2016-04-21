@@ -1,0 +1,26 @@
+====== Cluster 0
+--- Centers:
+music0	1.5
+plot1	1.5
+good	1.0
+filler0	1.0
+great	0.5
+music1	0.5
+excellent	0.5
+plot0	0.5
+--- Assigned points:
+great good plot1 plot0 filler0
+filler0 good music1 music0 excellent
+====== Cluster 1
+--- Centers:
+music1	1.5
+worst	1.0
+plot0	1.0
+plot1	1.0
+filler1	1.0
+music0	0.5
+terrible	0.5
+bad	0.5
+--- Assigned points:
+filler1 bad plot1 worst plot0
+music1 filler1 worst terrible music0
